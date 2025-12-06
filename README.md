@@ -10,22 +10,6 @@
 - 🧠 Skills: SQL, HTML/CSS, JavaScript, and learning Python
 - 🔍 Passionate about using data to enhance financial services and digital transformation
 
----
-
-### 🧠 GitHub Stats & Languages
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Hailinh1509&show_icons=true&theme=default&count_private=true&hide=issues&rank_icon=percentile" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hailinh1509&layout=compact&theme=default" />
-    </td>
-  </tr>
-</table>
-
----
 
 ### 📈 Contribution Graph
 
