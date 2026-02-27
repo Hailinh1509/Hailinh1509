@@ -1,15 +1,27 @@
 <h1 align="center">Hi there 👋, I'm Nguyen Trinh Hai Linh</h1>
-<h3 align="center">Aspiring Business Analyst in Fintech | MIS Student | Data-driven Thinker</h3>
+<h3 align="center">IT Business Analyst | MIS Student | System & Process Thinking</h3>
 
 ---
 
 ### 💡 About Me
 
-- 🎓 I'm studying **Management Information Systems (MIS)** at Banking Academy
-- 💼 Aspiring **Business Analyst in Fintech**
-- 🧠 Skills: SQL, HTML/CSS, JavaScript, and learning Python
-- 🔍 Passionate about using data to enhance financial services and digital transformation
+- 🎓 Management Information Systems (MIS) student at Banking Academy
+- 💼 Aspiring IT Business Analyst, focusing on system analysis and digital products
+- 🧠 Currently strengthening: SQL, Agile, UML, Requirement Documentation (BRD, User Stories)
+- 🔍 Interested in bridging business needs and technical solutions
+- ⚙️ Passionate about process improvement and structured system design
 
+---
+
+### 🛠 Core Focus
+
+- Business Requirement Analysis  
+- System Modeling (UML, Process Flow)  
+- Agile & Scrum Environment  
+- SQL & Database Understanding  
+- Digital Products & SaaS  
+
+---
 
 ### 📈 Contribution Graph
 
@@ -19,17 +31,19 @@
 
 ---
 
-### 📌 Career Goal
+### 🎯 Career Direction
 
-> I want to become a **Business Analyst in Fintech**, leveraging both technical knowledge and business insight to deliver meaningful impact through data.
+> Becoming an IT Business Analyst who connects business strategy with scalable system solutions.
 
 ---
 
 ### 🔗 Let's Connect!
 
 - 📧 Email: hailinhnt1509@gmail.com
+- 💼 LinkedIn:
+- 📘 Facebook: https://www.facebook.com/nai.ngoc.503
+- 📂 Portfolio: 
 
 ---
 
-⭐️ *If you're into Fintech, Data Analysis, or Business Insights, let's connect!*
-
+⭐️ Open to Business Analyst Internship opportunities in product-driven environments.
