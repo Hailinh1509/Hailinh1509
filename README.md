@@ -60,23 +60,15 @@
 
 </div>
 
-### 🧰 Tools & Tech
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,figma,notion,jira,postman,py,md&theme=dark" alt="skills" />
-</p>
-
----
-
 ## 📶 Skill Meter
 
 <div align="center">
 
 | Skill | Level | Progress |
 |:---|:---:|:---|
-| 📋 Requirement Analysis (BRD, User Stories) | Intermediate | ![](https://geps.dev/progress/70?dangerColor=ff6b6b&warningColor=feca57&successColor=1dd1a1) |
+| 📋 Requirement Analysis (BRD, User Stories) | Intermediate | ![](https://geps.dev/progress/75?dangerColor=ff6b6b&warningColor=feca57&successColor=1dd1a1) |
 | 🧩 UML & Process Modeling | Intermediate | ![](https://geps.dev/progress/65?dangerColor=ff6b6b&warningColor=feca57&successColor=1dd1a1) |
-| 🗄️ SQL & Database | Learning | ![](https://geps.dev/progress/60?dangerColor=ff6b6b&warningColor=feca57&successColor=1dd1a1) |
+| 🗄️ SQL & Database | Learning | ![](https://geps.dev/progress/70?dangerColor=ff6b6b&warningColor=feca57&successColor=1dd1a1) |
 | 🔄 Agile & Scrum | Learning | ![](https://geps.dev/progress/65?dangerColor=ff6b6b&warningColor=feca57&successColor=1dd1a1) |
 | 🐛 Testing (test cases, UAT, bug report) | Learning | ![](https://geps.dev/progress/60?dangerColor=ff6b6b&warningColor=feca57&successColor=1dd1a1) |
 | 🤝 Customer Communication | Intermediate | ![](https://geps.dev/progress/75?dangerColor=ff6b6b&warningColor=feca57&successColor=1dd1a1) |
